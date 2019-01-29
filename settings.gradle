@@ -1,1 +1,1 @@
-include ':app', ':droidcafe', ':scrollingtext', ':implicitintent', ':projecttemplate', ':implicitintentsreceiver', ':twoactivities'
+include ':app', ':droidcafe', ':scrollingtext', ':implicitintent', ':projecttemplate', ':implicitintentsreceiver', ':twoactivities', ':dialogforalert'
